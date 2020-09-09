@@ -26,9 +26,9 @@ Le processus de soumission d'idée et de structuration est en train d'être mis 
 
 ## Comprendre notre démarche
 
-Cette démarche est la suite logique d'un cheminement psychologique qui nous a amené de la compréhension de la friabilité du système actuel et donc de son effondrement très probable à venir, à la volonté d'agir pour transformer le monde sauver ce qu'il en reste. Nous pronons donc la sauvegarde de la biodiversité, le (re)développement social et de nombreux autres choses toutes ayant pour fil principal la bienveillance basée sur l’intelligence collective.
+Cette démarche est la suite logique d'un cheminement psychologique qui nous a amené de la compréhension de la friabilité du système actuel et donc de son effondrement très probable à venir, à la volonté d'agir pour transformer le monde et sauver ce qu'il en reste. Nous pronons donc la sauvegarde de la biodiversité, le (re)développement social et de nombreuses autres choses toutes ayant pour fil principal **la bienveillance basée sur l’intelligence collective**.
 
-Vous trouverez une partie des ressources qui nous amené à ce suivre cette voie et lancer cette initiative, ainsi que d'autres ressources justifiant nos propres supports dans [le répertoire « ressources »](https://github.com/mbrehin/Soisy-resilience-locale/blob/master/ressources/README.md) de ce projet. Libre à vous de proposer les lectures et autres médias qui vont ont inspiré [en nous les soumettant ici](https://github.com/mbrehin/Soisy-resilience-locale/projects/2).
+Vous trouverez une partie des ressources qui nous ont amené à ce suivre cette voie et lancer cette initiative ainsi que d'autres ressources justifiant nos propres supports dans [le répertoire « ressources »](https://github.com/mbrehin/Soisy-resilience-locale/blob/master/ressources/README.md) de ce projet. Libre à vous de proposer les lectures et autres médias qui vont ont inspiré [en nous les soumettant ici](https://github.com/mbrehin/Soisy-resilience-locale/projects/2).
 
 ## Qui sommes nous ?
 
