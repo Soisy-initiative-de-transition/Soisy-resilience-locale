@@ -19,6 +19,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Adrastia, anticiper et préparer le déclin](http://adrastia.org/qui-sommes-nous/position-et-deontologie/)
 - [Objectifs de développement durable](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/)
 - [Site d'accompagnement à la transition locale](https://transitionlocale.fr/)
+- [Les Greniers d’Abondance, résilience alimentaire](https://resiliencealimentaire.org/)
 
 ### Climat, déchets, biodiversité
 
