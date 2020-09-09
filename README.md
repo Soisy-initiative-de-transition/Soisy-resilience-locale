@@ -26,7 +26,18 @@ Le processus de soumission d'idée et de structuration est en train d'être mis 
 
 ## Comprendre notre démarche
 
-Cette démarche est la suite logique d'un cheminement psychologique qui nous a amené de la compréhension de la friabilité du système actuel et donc de son effondrement très probable à venir, à la volonté d'agir pour transformer le monde et sauver ce qu'il en reste. Nous pronons donc la sauvegarde de la biodiversité, le (re)développement social et de nombreuses autres choses toutes ayant pour fil principal **la bienveillance basée sur l’intelligence collective**.
+Nous voulons utiliser l'**intelligence collective pour redonner du sens à notre quotidien** et l'améliorer en renforçant le lien social.
+
+Nous voulons **remettre la nature** dans notre quotidien dans toutes ses formes :
+
+- préserver et redévelopper la biodiversité
+- diminuer les différentes sources pollutions
+- réapprendre à communiquer avec nos voisins
+- redévelopper l'entraide et le partage
+- sensibiliser les citoyens aux questions de développement durable
+- que toutes et tous puissent participer, qu'on soit dans un HTML ou un pavillon…  
+
+Cette démarche doit être **inclusive et bienveillante**. Nous ne demandons aucun engagement : chacun·e apporte son savoir faire et donne le temps qu'il souhaite et développe ou participe au(x) projet(s) qui l’intéresse.
 
 Vous trouverez une partie des ressources qui nous ont amené à ce suivre cette voie et lancer cette initiative ainsi que d'autres ressources justifiant nos propres supports dans [le répertoire « ressources »](https://github.com/mbrehin/Soisy-resilience-locale/blob/master/ressources/README.md) de ce projet. Libre à vous de proposer les lectures et autres médias qui vont ont inspiré [en nous les soumettant ici](https://github.com/mbrehin/Soisy-resilience-locale/projects/2).
 
