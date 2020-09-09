@@ -24,6 +24,12 @@ Le processus de soumission d'idée et de structuration est en train d'être mis 
 - [Pour créer un compte et participer, c'est par ici](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fissues%2Findex&source=header-repo&source_repo=mbrehin%2Fresilience-locale) (c'est gratuit, sans engagement et sécurisé, mais c'est nécessaire pour gérer nos échanges)
 - [Les idées, c'est par ici](https://github.com/mbrehin/resilience-locale/projects/1)
 
+## Comprendre notre démarche
+
+Cette démarche est la suite logique d'un cheminement psychologique qui nous a amené de la compréhension de la friabilité du système actuel et donc de son effondrement très probable à venir, à la volonté d'agir pour transformer le monde sauver ce qu'il en reste. Nous pronons donc la sauvegarde de la biodiversité, le (re)développement social et de nombreux autres choses toutes ayant pour fil principal la bienveillance basée sur l’intelligence collective.
+
+Vous trouverez une partie des ressources qui nous amené à ce suivre cette voie et lancer cette initiative, ainsi que d'autres ressources justifiant nos propres supports dans [le répertoire « ressources »](https://github.com/mbrehin/Soisy-resilience-locale/blob/master/ressources/README.md) de ce projet. Libre à vous de proposer les lectures et autres médias qui vont ont inspiré [en nous les soumettant ici](https://github.com/mbrehin/Soisy-resilience-locale/projects/2).
+
 ## Qui sommes nous ?
 
 Tout le monde et personne. L’intérêt de ce projet collaboratif n’est pas de mettre des personnes en avant mais des initiatives et des ressources. Nous sommes apolitiques, agnostiques. Nous sommes résilients, et la résilience implique une remise en question permanente des choses dans un but unique : les améliorer pour toutes, pour tous, pour tout ! Et cette amélioration doit se faire de manière autonome, locale, sans effet de bord ni dégât. On vise à améliorer tout, toute chose, et nos actions sont plus faciles et efficaces lorsqu’elle se font autour de nous.
