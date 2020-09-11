@@ -44,5 +44,6 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 ### Vidéos
 
 - [Demain, le film](https://www.demain-lefilm.com/)
+- [Enquête de sens, le film](https://enquetedesens-lefilm.com/)
 - [Vidéo d'un village très avancé, Ungersheim](https://youtu.be/ykMSntXvyz0)
 - [Le site de la mairie de cette même ville, Ungersheim](https://www.mairie-ungersheim.fr/village-en-transition/)
