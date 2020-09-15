@@ -28,6 +28,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - Eau :
   - [Consommation d'eau par habitant en France](https://www.planetoscope.com/consommation-eau/243-litres-d-eau-consommes-par-un-francais.html)
   - [Autonomie en eau des habitations](https://www.eautarcie.org/)
+  - [Sécheresses en France](https://www.francetvinfo.fr/meteo/secheresse/infographies-secheresse-quatre-graphiques-pour-visualiser-l-aggravation-de-la-situation-en-france_4067133.html), par FranceInfo
 
 ### Climat, déchets, biodiversité
 
