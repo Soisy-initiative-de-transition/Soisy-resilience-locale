@@ -19,8 +19,10 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Adrastia, anticiper et préparer le déclin](http://adrastia.org/qui-sommes-nous/position-et-deontologie/)
 - [Objectifs de développement durable](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/)
 - [Site d'accompagnement à la transition locale](https://transitionlocale.fr/)
-- [Les Greniers d’Abondance, résilience alimentaire](https://resiliencealimentaire.org/)
-- [Les Greniers d'Abondance, « Vers la résilience alimentaire : faire face aux menaces globales à l'échelle des territoires](https://resiliencealimentaire.org/wp-content/uploads/2020/03/Vers_la_resilience_alimentaire-_032020.pdf)
+- Alimentation :
+  - [Les Greniers d’Abondance, résilience alimentaire](https://resiliencealimentaire.org/)
+  - [Les Greniers d'Abondance, « Vers la résilience alimentaire : faire face aux menaces globales à l'échelle des territoires](https://resiliencealimentaire.org/wp-content/uploads/2020/03/Vers_la_resilience_alimentaire-_032020.pdf)
+  - [Le nouvel espace rural français](http://www.senat.fr/rap/r07-468/r07-46833.html), rapport du Sénat de 2008 (nb de personnes à charge par paysan…)
 - Eau :
   - [Consommation d'eau par habitant en France](https://www.planetoscope.com/consommation-eau/243-litres-d-eau-consommes-par-un-francais.html)
   - [Autonomie en eau des habitations](https://www.eautarcie.org/)
