@@ -19,6 +19,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Adrastia, anticiper et préparer le déclin](http://adrastia.org/qui-sommes-nous/position-et-deontologie/)
 - [Objectifs de développement durable](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/)
 - [Site d'accompagnement à la transition locale](https://transitionlocale.fr/)
+- [Consommation repsonsable](https://multimedia.ademe.fr/infographies/infographie-consommation-responsable/), infographie de l’ADEME.
 - Alimentation :
   - [Les Greniers d’Abondance, résilience alimentaire](https://resiliencealimentaire.org/)
   - [Les Greniers d'Abondance, « Vers la résilience alimentaire : faire face aux menaces globales à l'échelle des territoires](https://resiliencealimentaire.org/wp-content/uploads/2020/03/Vers_la_resilience_alimentaire-_032020.pdf)
@@ -30,8 +31,10 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 
 ### Climat, déchets, biodiversité
 
-- [Déchets, chiffres clés 2017](https://www.ademe.fr/sites/default/files/assets/documents/dechets-chiffres-cles-2017-010269.pdf)
-- [Production de déchets dans le monde](https://www.planetoscope.com/dechets/363-production-de-dechets-dans-le-monde.html)
+- Déchets
+  - [Déchets, chiffres clés 2017](https://www.ademe.fr/sites/default/files/assets/documents/dechets-chiffres-cles-2017-010269.pdf)
+  - [Production de déchets dans le monde](https://www.planetoscope.com/dechets/363-production-de-dechets-dans-le-monde.html)
+  - [Poids carbone](https://multimedia.ademe.fr/infographies/infographie-poids-carbone/), infographie de l’ADEME.
 - [La météo en 2050](https://www.lesinrocks.com/2020/08/14/actualite/societe/meteo-france-a-imagine-la-canicule-de-2050-et-vous-allez-vouloir-demenager-en-bretagne/)
 - [Projections climatiques](drias-climat.fr)
 - [Pourquoi prendre l'avion ne devrait plus être un débat](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/)
