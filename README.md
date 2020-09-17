@@ -23,6 +23,7 @@ Le processus de soumission d'idée et de structuration est en train d'être mis 
 
 - [Pour créer un compte et participer, c'est par ici](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fissues%2Findex&source=header-repo&source_repo=mbrehin%2Fresilience-locale) (c'est gratuit, sans engagement et sécurisé, mais c'est nécessaire pour gérer nos échanges)
 - [Les idées, c'est par ici](https://github.com/mbrehin/resilience-locale/projects/1)
+- [Découvrir le support de présentation en ligne](https://presentation-resilience-locale.netlify.app/) et le transmettre à vos proches, vos voisins…
 
 ## Comprendre notre démarche
 
