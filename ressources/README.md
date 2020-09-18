@@ -56,3 +56,4 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Enquête de sens, le film](https://enquetedesens-lefilm.com/)
 - [Vidéo d'un village très avancé, Ungersheim](https://youtu.be/ykMSntXvyz0)
 - [Le site de la mairie de cette même ville, Ungersheim](https://www.mairie-ungersheim.fr/village-en-transition/)
+- [Climat: Le nouveau défi des ingénieurs](https://www.youtube.com/watch?v=XnLNCWMCFWs), conférence avec Jean-Marc Jancovici
