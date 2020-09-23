@@ -40,6 +40,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [La météo en 2050](https://www.lesinrocks.com/2020/08/14/actualite/societe/meteo-france-a-imagine-la-canicule-de-2050-et-vous-allez-vouloir-demenager-en-bretagne/)
 - [Projections climatiques](drias-climat.fr)
 - [Pourquoi prendre l'avion ne devrait plus être un débat](https://bonpote.com/pourquoi-arreter-lavion-ne-devrait-plus-etre-un-debat/)
+- [Rapport à la réalité des actions menées par les groupes pétroliers pour le climat](http://priceofoil.org/content/uploads/2020/09/OCI-Big-Oil-Reality-Check-vF.pdf), par http://priceofoil.org/ (en anglais)
 - Disparition des espèces
   - [Rapport planète vivante 2017](https://www.wwf.fr/vous-informer/actualites/rapport-planete-vivante-2018?gclid=CjwKCAjwm_P5BRAhEiwAwRzSO9y0f9knyDLlaJOra--sC1BE4GIjn26ND-cG-854VbDZextS9bZbmhoCV2AQAvD_BwE)
   - [Rapport planète vivante 2020](https://www.wwf.fr/sites/default/files/doc-2020-09/20200910_Rapport_Living-Planet-Report-2020_ENGLISH_WWF-min.pdf)
