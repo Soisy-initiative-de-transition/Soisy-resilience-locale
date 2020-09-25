@@ -36,7 +36,7 @@ Nous voulons **remettre la nature** dans notre quotidien dans toutes ses formes 
 - réapprendre à communiquer avec nos voisins
 - redévelopper l'entraide et le partage
 - sensibiliser les citoyens aux questions de développement durable
-- que toutes et tous puissent participer, qu'on soit dans un HTML ou un pavillon…  
+- que toutes et tous puissent participer, qu'on soit dans un HLM ou un pavillon…  
 
 Cette démarche doit être **inclusive et bienveillante**. Nous ne demandons aucun engagement : chacun·e apporte son savoir faire et donne le temps qu'il souhaite et développe ou participe au(x) projet(s) qui l’intéresse.
 
