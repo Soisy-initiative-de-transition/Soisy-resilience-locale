@@ -51,6 +51,12 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 
 - [Allo Voisins](https://www.allovoisins.com/), partage de matériel, services…
 - [Ouishare](https://www.ouishare.net/)
+- Pour les municipalités :
+  - https://www.ecologie.gouv.fr/boite-outils-elus
+  - [Conseil de l’ADEME pour intégrer la transition énergétique et l'écologie dans les programmes de campagnes](https://www.territoires-climat.ademe.fr/actualite/candidats-aux-elections-municipales-2020-comment-verdir-votre-programme) : https://www.territoires-climat.ademe.fr
+  - [Le Pacte pour la transition](https://www.pacte-transition.org/#mesures) : https://www.pacte-transition.org
+  - [État des lieux de la transition écologique dans des communes du Calvados](https://larouteencommunes.fr/) : https://larouteencommunes.fr/
+  - [Cit'Energie par l’ADEME, programme de récompense des territoires](https://citergie.ademe.fr/referentiel/planification-territoriale/): https://citergie.ademe.fr/
 
 ### Vidéos
 
