@@ -6,3 +6,4 @@ Ce document fourni les ressources utiles à la compréhension de l’exploitatio
 - [Statistiques du développement durable France](http://www.donnees.statistiques.developpement-durable.gouv.fr/lesessentiels/indicateurs/e33.html), données gouvernementales
 - [Raréfaction des ressources](https://energie.eelv.fr/la-transition-energetique/pourquoi/rarefaction-des-ressources/), analyse par Europe Écologie Les Verts
 - [Sus à l'hydrogène](https://jancovici.com/publications-et-co/articles-de-presse/sus-a-lhydrogene/), article par Jean-Marc Jancovici
+- [Problématique du stockage des déchets nucléaires en Frane](https://www.franceculture.fr/emissions/la-fabrique-mediatique/la-fabrique-mediatique-du-samedi-17-octobre-2020?utm_medium=Social&utm_source=Twitter#Echobox=1602941219)
