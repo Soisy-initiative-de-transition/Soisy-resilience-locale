@@ -68,6 +68,10 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Le site de la mairie de cette même ville, Ungersheim](https://www.mairie-ungersheim.fr/village-en-transition/)
 - [Climat: Le nouveau défi des ingénieurs](https://www.youtube.com/watch?v=XnLNCWMCFWs), conférence avec Jean-Marc Jancovici
 
+### Podcasts
+
+- [Les urbainculteurs - L’eco-anxiété](https://urbainculteurs.org/episode-10-lecoanxiete-charles-baron/)
+
 ### Guides
 
 - [Création et assemblage d'une boîte à livre Croquelivres](https://croquelivres.ca/participer/plan/)
