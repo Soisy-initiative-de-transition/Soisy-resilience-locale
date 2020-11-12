@@ -20,6 +20,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - [Objectifs de développement durable](https://www.un.org/sustainabledevelopment/fr/objectifs-de-developpement-durable/)
 - [Site d'accompagnement à la transition locale](https://transitionlocale.fr/)
 - [Consommation repsonsable](https://multimedia.ademe.fr/infographies/infographie-consommation-responsable/), infographie de l’ADEME.
+- [Nos Futurs, Imaginer les Possibles du Changement Climatique](https://www.editions-actusf.fr/a/collectifd-auteur/nos-futurs), ouvrage entre récits scientifiques et fictions-projections
 - Alimentation :
   - [Les Greniers d’Abondance, résilience alimentaire](https://resiliencealimentaire.org/)
   - [Les Greniers d'Abondance, « Vers la résilience alimentaire : faire face aux menaces globales à l'échelle des territoires](https://resiliencealimentaire.org/wp-content/uploads/2020/03/Vers_la_resilience_alimentaire-_032020.pdf)
