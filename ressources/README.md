@@ -28,6 +28,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
   - [Le nouvel espace rural français](http://www.senat.fr/rap/r07-468/r07-46833.html), rapport du Sénat de 2008 (nb de personnes à charge par paysan…)
   - [Taux de suicide dans le milieu agricole](https://www.senat.fr/questions/base/2019/qSEQ190208751.html), rapport du Sénat de 2019
   - [L’agriculture biologique autorise-t-elle des pesticides ?](http://www.changeonsdagriculture.fr/l-agriculture-biologique-autorise-t-elle-des-pesticides-a203147862)
+  - [Conférence au Salon des Maires - Résilience alimentaire : faire face aux menaces globales](https://video.tedomum.net/videos/watch/2180cce3-4c4a-4191-9511-e2644aaa2e4a)
 - Eau :
   - [Consommation d'eau par habitant par jour en France](https://www.cieau.com/le-metier-de-leau/ressource-en-eau-eau-potable-eaux-usees/quels-sont-les-usages-domestiques-de-leau/#:~:text=ZOOM%20SUR%E2%80%A6%20la%20consommation%20d,litres%20d'eau%20par%20jour), CIEAU (Centre d'Information sur l'EAU)
   - [Consommation d'eau par habitant en France](https://www.planetoscope.com/consommation-eau/243-litres-d-eau-consommes-par-un-francais.html), planetoscope
