@@ -64,8 +64,10 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 - Emploi :
   - [Shift Your Job](https://shiftyourjob.org/), concilier emploi et climat (par The Shift Project)
   
-Actions
+### Actions
 
+- https://theshiftproject.org/
+- https://stopexclusionenergetique.org/
 - https://terredeliens.org/
 - https://www.eco-industrie-locale.fr/
 
