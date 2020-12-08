@@ -61,6 +61,8 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
   - [Le Pacte pour la transition](https://www.pacte-transition.org/#mesures) : https://www.pacte-transition.org
   - [État des lieux de la transition écologique dans des communes du Calvados](https://larouteencommunes.fr/) : https://larouteencommunes.fr/
   - [Cit'Energie par l’ADEME, programme de récompense des territoires](https://citergie.ademe.fr/referentiel/planification-territoriale/): https://citergie.ademe.fr/
+- Emploi :
+  - [Shift Your Job](https://shiftyourjob.org/), concilier emploi et climat (par The Shift Project)
   
 Actions
 
