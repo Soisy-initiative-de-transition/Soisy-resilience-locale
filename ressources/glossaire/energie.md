@@ -7,3 +7,4 @@ Ce document fourni les ressources utiles à la compréhension de l’exploitatio
 - [Raréfaction des ressources](https://energie.eelv.fr/la-transition-energetique/pourquoi/rarefaction-des-ressources/), analyse par Europe Écologie Les Verts
 - [Sus à l'hydrogène](https://jancovici.com/publications-et-co/articles-de-presse/sus-a-lhydrogene/), article par Jean-Marc Jancovici
 - [Problématique du stockage des déchets nucléaires en France](https://www.franceculture.fr/emissions/la-fabrique-mediatique/la-fabrique-mediatique-du-samedi-17-octobre-2020)
+- [Article de BonPote sur l'hydrogène](https://bonpote.com/lhydrogene-peut-il-tenir-toutes-ses-promesses/)
