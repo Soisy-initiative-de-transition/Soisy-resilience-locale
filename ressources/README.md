@@ -53,6 +53,7 @@ D'autres ressources plus générales/transversales sont présentées ici et pour
 
 ### Outils
 
+- [Adaptaville](https://www.adaptaville.fr/) : solutions détaillées pour les municipalités
 - [Allo Voisins](https://www.allovoisins.com/), partage de matériel, services…
 - [Ouishare](https://www.ouishare.net/)
 - Pour les municipalités :
